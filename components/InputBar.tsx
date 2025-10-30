@@ -52,7 +52,7 @@ export const InputBar: React.FC<InputBarProps> = ({ onSendMessage, disabled }) =
           value={inputValue}
           onChange={(e) => setInputValue(e.target.value)}
           placeholder={isListening ? "Đang nghe..." : "Hỏi Bé Sen điều gì đó..."}
-          className="flex-1 mx-4 p-3 border-gray-300 rounded-full focus:ring-pink-500 focus:border-pink-500 transition shadow-sm bg-gray-100 text-black"
+          className="flex-1 mx-4 p-3 border-gray-300 rounded-full focus:ring-pink-500 focus:border-pink-500 transition shadow-sm bg-gray-100 text-blue-600"
           disabled={disabled}
         />
         <button
