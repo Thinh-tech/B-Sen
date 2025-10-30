@@ -1,0 +1,8 @@
+{
+  "name": "Bé Sen - Trợ lý Festival Hoa Kiểng Sa Đéc 2025",
+  "description": "An AI chatbot tour guide named 'Bé Sen' to assist visitors during the Sa Đéc Flower and Ornamental Plant Festival 2025. It provides information on tourism, accommodation, dining, and entertainment with a cheerful and professional personality.",
+  "requestFramePermissions": [
+    "microphone",
+    "geolocation"
+  ]
+}
